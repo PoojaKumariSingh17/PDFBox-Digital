@@ -1,0 +1,7 @@
+/target/
+*.log
+*.class
+*.metadata
+*.settings
+.classpath
+.attach_pid*
